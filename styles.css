@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color:#660066;
+}
+body {
+    font-family: 'Sedgwick Ave', cursive;
+    background: url("https://st2.depositphotos.com/9493812/12292/v/950/depositphotos_122923744-stock-illustration-blue-white-polygonal-mosaic-background.jpg");
+}
+.main {
+    display: flex;   
+}
+.info {
+    width: 30%;  
+    justify-content: flex-end;
+    background-color: pink;
+}
+.pic {
+    width:70%;   
+    justify-content: space-between;
+    background-color: black;
+    border: 6px groove white;
+}
+.slogan {
+    text-align: center;
+    color: #660066;
+}
+.money {
+    justify-content: center;
+    display: flex;
+}
